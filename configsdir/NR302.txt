@@ -1,0 +1,26 @@
+homework_path=c:\homework #所有班级作业将存放至的根目录
+mailserver=imap.163.com   #pop邮件服务器地址
+mail_user=newer18@163.com #账号
+mail_passwd=newer2018     #密码
+prefix_flag=NR302         #附件前缀
+
+吕明杰
+敬小丹
+王晟昱
+谢平
+黄雄辉
+楚武杰
+韩素珍
+唐滟
+贺超
+郭谦
+朱晓丽
+舒玥铭
+张智鹏
+余建龙
+刘盛宇
+赵云
+张栋
+李润林
+
+邱红捷
