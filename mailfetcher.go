@@ -95,6 +95,7 @@ func setConfigs() bool {
 		dateBegin, dateEnd
 	return true
 }
+
 func main() {
 
 	if setConfigs() {
